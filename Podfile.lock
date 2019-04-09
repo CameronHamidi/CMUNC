@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Mailgun-In-Swift (1.0.0):
+    - Alamofire
+    - ObjectMapper
+  - ObjectMapper (3.4.2)
+  - SDWebImage (5.0.0):
+    - SDWebImage/Core (= 5.0.0)
+  - SDWebImage/Core (5.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Mailgun-In-Swift
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Mailgun-In-Swift
+    - ObjectMapper
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Mailgun-In-Swift: 9a969ec1bbb19d00dc518fedf0c0493f968463f2
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  SDWebImage: 5de80a0302de9e377e62f47d2fa1304efff0e55f
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 475b7130e3f0c036f407feb80c5d7101bbda0ff7
+
+COCOAPODS: 1.5.3
